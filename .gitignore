@@ -139,7 +139,7 @@ ipch/
 CMake*.json
 !CMakePresets.json
 CMakeLists.txt.*
-pnglibconf.[ch]
+pnglibconf.[c]
 pnglibconf.dfn
 pnglibconf.pre
 pngprefix.h
@@ -157,3 +157,7 @@ pngprefix.h
 /pngunknown
 /pngvalid
 /timepng
+
+# Swift Package Manager
+xcuserdata/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
