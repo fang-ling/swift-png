@@ -4,7 +4,7 @@
 //  Package.swift
 //  swift-png
 //
-//  Created by Fang Ling on 2025/3/14.
+//  Created by Fang Ling on 2026/3/14.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //  you may not use this file except in compliance with the License.
